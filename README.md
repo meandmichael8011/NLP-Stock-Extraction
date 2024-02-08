@@ -1,6 +1,8 @@
 This project involves WebScraping using Selenium / BS4, as well as NLP libraries (RegEx, SpaCy, etc.)
 
 Dependencies:
+
+
 import requests
 
 from bs4 import BeautifulSoup as bs
